@@ -9,7 +9,7 @@ References:
 
 ### Example Games Between Trained Models
 - Each move with 400 MCTS playouts:  
-![playout400](https://raw.githubusercontent.com/junxiaosong/AlphaZero_Gomoku/master/playout400.gif)
+![playout400](https://raw.githubusercontent.com/lvliris/AlphaZero_Gobang/master/playout400.gif)
 
 ### Requirements
 To play with the trained AI models, only need:
