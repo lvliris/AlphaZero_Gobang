@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Junxiao Song
-"""
 
 from __future__ import print_function
 import numpy as np
